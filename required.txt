@@ -1,0 +1,5 @@
+SpeechRecognition==3.8.1
+langdetect==1.0.9
+transformers==4.13.0
+PyAudio==0.2.11
+langdetect

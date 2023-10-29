@@ -10,7 +10,7 @@ Welcome to the coolest speech-to-text translation repo in town! This Python scri
 1. Clone this bad boy (optional):
 
 ```
-git clone https://github.com/yourusername/speech-recognition-translation.git
+git clone https://github.com/SweatyCrayfish/speech-recognition-translation.git
 ```
 2. Enter the matrix:
 ```
